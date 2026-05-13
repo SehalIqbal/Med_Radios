@@ -25,7 +25,7 @@ function MRIPage({ onBack }) {
     if (!allFilesReady) return;
 
     setStatus('analyzing');
-    setStatusMsg('Running segmentation... (~40 seconds)');
+    setStatusMsg('Running segmentation...)');
     setResult(null);
 
     try {
