@@ -123,6 +123,6 @@ React Frontend displays results
 **Supervisor:** Mahrukh Khan — Lecturer, FAST NUCES KHI
 
 **Co-Supervisor:** Dr. Muhammad Rafi — Professor & Department Head (AI & DS), FAST NUCES KHI
----
+
 
 *FAST NUCES Karachi — Final Year Project 2026*
